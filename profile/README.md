@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcleversolute.cz&style=flat-square&logo=google-chrome&color=blue)](https://cleversolute.cz)  
 [![Insurance Site](https://img.shields.io/website?url=https%3A%2F%2Fcleverinsurance.cz&style=flat-square&logo=insurance&color=orange)](https://cleverinsurance.cz)  
+[![Clever Care](https://img.shields.io/website?url=https%3A%2F%2Fclever-care.cz&style=flat-square&logo=healthcare&color=green)](https://clever-care.cz)  
 [![GitHub Org](https://img.shields.io/badge/organization-CleverSolute-00ADEF?style=flat-square&logo=github)](https://github.com/CleverSolute)
 
 ---
@@ -21,6 +22,9 @@ Our mission is to empower businesses with cutting-edge technology, creating seam
 
 - 🔹 **Clever Insurance** – [cleverinsurance.cz](https://cleverinsurance.cz)  
   Smart insurance technology and services.
+
+- 🔹 **Clever Care** – [clever-care.cz](https://clever-care.cz)  
+  Healthcare and insurance support solutions.
 
 ---
 
@@ -53,7 +57,16 @@ Feel free to open issues, submit pull requests, or reach out via our websites!
 - Emails:  
   - [likvidace@cleversolute.cz](mailto:likvidace@cleversolute.cz)  
   - [helpdesk@cleversolute.cz](mailto:helpdesk@cleversolute.cz)  
+  - [pojisteni@cleverinsurance.cz](mailto:pojisteni@cleverinsurance.cz)  
 - Follow us on GitHub for updates and news: [CleverSolute](https://github.com/CleverSolute)
+
+---
+
+## Socials 🌍
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078712465874)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cleversolute)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLntBVuW0A6tXxsHnz3-CXw)
 
 ---
 
