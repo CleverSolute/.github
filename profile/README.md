@@ -44,10 +44,12 @@ Visit our GitHub repositories to discover ongoing projects, open-source tools, a
 
 ---
 
-## Get Involved 🤝
+## Work With Us 🤝
 
-Interested in contributing or collaborating?  
-Feel free to open issues, submit pull requests, or reach out via our websites!
+CleverSolute works on innovative internal and client-focused projects in the fields of software development and insurance technology.  
+While our repositories are private, we’re always open to business partnerships, integrations, and professional collaboration.
+
+Feel free to reach out via our websites or contact emails.
 
 ---
 
